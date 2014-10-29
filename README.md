@@ -6,7 +6,7 @@
 
 This is a clean and minimal theme inspired from the [rEFInd-minimal](http://evanpurkhiser.com/rEFInd-minimal/) theme by [Evan Purkhiser](https://github.com/EvanPurkhiser) and the screenshot from [Avi Romanoff](https://github.com/aroman)'s [freya-on-a-mac](https://github.com/aroman/freya-on-a-mac) project.
 
-![Screenshot](img/screenshot.bmp "rEFInd Black)
+![Screenshot](img/screenshot.bmp "rEFInd Black")
 
 ### Usage
 
