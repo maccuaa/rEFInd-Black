@@ -18,7 +18,7 @@ This is a clean and minimal theme inspired from the [rEFInd-minimal](http://evan
 
 3. Open the `refind.conf` file and add the line
 
-`include refind-black/refind-black.conf`
+    `include refind-black/refind-black.conf`
 
 ### Customization
 
