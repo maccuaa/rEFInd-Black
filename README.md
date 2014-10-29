@@ -12,7 +12,7 @@ This is a clean and minimal theme inspired from the [rEFInd-minimal](http://evan
 
 1. Clone the repository to your computer
 
-`git clone https://github.com/st-andrew/rEFInd-Black.git`
+    `git clone https://github.com/st-andrew/rEFInd-Black.git`
 
 2. Copy the refind-black folder (the one inside the project) into the same directory as your rEFInd efi executable (usually `/boot/EFI/refind/`).
 
