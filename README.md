@@ -28,7 +28,7 @@ To set the icons for your entries you will want to add the `icon` option to each
 
 Here's an example configuration (from the screenshot)
 
-````
+````nginx
 # showtools               shutdown
 
 scan_all_linux_kernels  false
